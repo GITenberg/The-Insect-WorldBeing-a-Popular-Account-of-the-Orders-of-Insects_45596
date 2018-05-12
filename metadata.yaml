@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '43373'
     url: http://www.gutenberg.org/2009/agents/43373
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45596#The-Insect-WorldBeing-a-Popular-Account-of-the-Orders-of-Insects
 gutenberg_issued: '2014-05-06'
 gutenberg_type: Text
 identifiers:
