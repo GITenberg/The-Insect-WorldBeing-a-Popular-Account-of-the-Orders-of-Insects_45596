@@ -1,0 +1,39 @@
+_repo: The-Insect-WorldBeing-a-Popular-Account-of-the-Orders-of-Insects_45596
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45596-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Figuier, Louis
+    alias: Figuier, Guillaume-Louis
+    birthdate: 1819
+    deathdate: 1894
+    gutenberg_agent_id: '25945'
+    url: http://www.gutenberg.org/2009/agents/25945
+    wikipedia: http://fr.wikipedia.org/wiki/Louis_Figuier
+  editor:
+    agent_name: Duncan, P. Martin (Peter Martin)
+    aliases:
+    - Duncan, Peter Martin
+    - Duncan, Martin (Peter Martin)
+    - Duncan, P. M. (Peter Martin)
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '43373'
+    url: http://www.gutenberg.org/2009/agents/43373
+description: ''
+gutenberg_issued: '2014-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Insects'
+title: "The Insect World\r\nBeing a Popular Account of the Orders of Insects; Together\
+  \ with a Description of the Habits and Economy of Some of the Most Interesting Species"
+url: http://www.gutenberg.org/ebooks/45596
